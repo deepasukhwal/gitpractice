@@ -1,1 +1,2 @@
 this is notes.txt file modified using cat command "
+this is merge conflict in notes.txt file for facing merging issue using echo command this is done on github
