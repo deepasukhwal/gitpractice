@@ -1,2 +1,3 @@
 this is file3.txt content inside file3 using echo command and just for practice
 hey this is an update from github the cloud and im hpappy for uou deepa to see this that you are trying and learning keep doing it.
+this is new line from local macbook machine
