@@ -1,0 +1,1 @@
+this is echo file created with eacho command which directly writeen inside the file and comman dis echo text >file.txt
